@@ -1,0 +1,25 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ADITYATHAKUR-21/Typescript#readme",
+  "bugs": {
+    "url": "https://github.com/ADITYATHAKUR-21/Typescript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADITYATHAKUR-21/Typescript.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "npx tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "typescript": "^7.0.2"
+  }
+}
